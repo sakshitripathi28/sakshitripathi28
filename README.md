@@ -3,10 +3,6 @@
 ## So glad to see you here...AGAIN :)!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 <!-- <h2 align="center"> So glad to see you here...AGAIN ;)! </h2>
  -->
- 
-<!-- ![jd](https://user-images.githubusercontent.com/60046892/162618941-4e8a25f0-3d1d-49db-b577-7d0391a2a1ac.PNG) -->
-<!--
-
 <!-- ![newh](https://user-images.githubusercontent.com/60046892/162619027-76a4af50-c6e6-4091-bb95-cc0de9136558.PNG) -->
 <!-- ![Purple Gradient Clean Minimalist LinkedIn Banner](https://user-images.githubusercontent.com/60046892/170875185-f8b86ed4-0220-4ef6-9564-71977749057d.png) -->
 <!-- ![Purple Gradient Clean Minimalist LinkedIn Banner (1)](https://user-images.githubusercontent.com/60046892/170875375-cec935b9-f8e5-4c5c-82ab-44c4737c8632.png) -->
