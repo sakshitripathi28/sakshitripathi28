@@ -1,4 +1,4 @@
-<h1 align="center"> Bonjour ! <img width="40" height="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">, I'm Sakshi Tripathi</h1>
+<h1 align="center"> Bonjour ! <img width="40" height="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"> I'm Sakshi Tripathi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="center" width="1200" height="200" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
