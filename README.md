@@ -8,7 +8,6 @@
 ### 💫 About Me:
 🎀 A student.<br>🌱 Currently styding at NIT Jamshedpur.
 
-
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ptakha_kudi_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-tripathi28/) 
 
@@ -26,12 +25,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sakshitripathi28&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://www.pinterest.com/our_memeworld/random-meme/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sakshitripathi28&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
