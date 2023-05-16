@@ -1,6 +1,10 @@
-### Hi there 👋 I"m Sakshi Tripathi
+<h1 align="center">#Bonjour ! <img width="40" height="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">, I'm Sakshi Tripathi</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
+<img width="1200" height="400" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif">
+
+
 
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
