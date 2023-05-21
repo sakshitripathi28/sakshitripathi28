@@ -21,7 +21,7 @@
 <img alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sakshitripathi28&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sakshitripathi28&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshitripathi28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" /></p>
 <br><br>
@@ -30,7 +30,7 @@
 <img alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false")
 
 <img alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
