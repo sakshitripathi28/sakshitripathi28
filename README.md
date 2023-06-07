@@ -10,7 +10,7 @@
 <img align="right" alt="coding" width="190" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif">
 
 ### 💫 About Me:
-🎀 A student.<br>🌱 Currently styding at NIT Jamshedpur.
+🎀 A student.<br>🌱 Currently styding at NIT Jamshedpur..
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ptakha_kudi_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-tripathi28/) 
