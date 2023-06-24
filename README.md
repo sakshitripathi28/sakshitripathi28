@@ -4,6 +4,7 @@
 <img align="center" width="1200" height="300" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
 
 [![](https://visitcount.itsvg.in/api?id=sakshitripathi28&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <img align="right" alt="coding" width="190" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
 <img align="right" alt="coding" width="290" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif">
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"> -->
@@ -20,57 +21,73 @@
 
 <img alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sakshitripathi28&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshitripathi28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" /></p>
-<br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshitripathi28&theme=dark&hide_border=false" /></p>
+<h2 align="center">📊 GitHub Stats:</h2>
 
-<img alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<p  align="center">
+<!-- |  --><kbd>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshitripathi28&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<!--    | -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshitripathi28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact" />
+<!--    | -->
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshitripathi28&theme=dark&hide_border=false" />
+<!--    | --></kbd>
+<!-- | ------------- | ------------- | -->
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false")
 
-<img alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sakshitripathi28&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="center">✍️ Random Dev Quote</h2>
 
-<img alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<p  align="center">
+<kbd>
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false"/>
+</kbd>
+</p>
 
-### 😍 Let's Have a Music
-<img align = "right" alt="party time" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif">
 
-![Preview](https://tthn0.vercel.app/api?spin=true)
+<h2 align="center">🔝 Top Contributed Repo</h2>
+<p  align="center">
+<kbd>
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=sakshitripathi28&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</kbd>
+</p>
 
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
+<h2 align="center">😍 Let's Have a Music</h2>
+<p  align="center">
+<kbd>
+<img align = "center" alt="party time" src="https://tthn0.vercel.app/api?spin=true">
+<img align = "center" alt="party time" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif">
 
+<h4 align="center">Here are some 🦜 party parrots</h4>
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img align="center" src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+</kbd>
+</p>
+
 
 <img alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
