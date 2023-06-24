@@ -2,16 +2,32 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="center" width="1200" height="300" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
+<div align="center">
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-tripathi28/)
+
+
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=sakshitripathi28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="right" alt="coding" width="190" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
-<img align="right" alt="coding" width="290" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif">
+<p  align="center">
+<img align="center" alt="coding" width="190" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
+<img align="center" alt="coding" width="290" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif">
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"> -->
-<img align="right" alt="coding" width="190" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif">
+<img align="center" alt="coding" width="190" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif">
 
-### 💫 About Me:
-🎀 A student.<br>🌱 Currently styding at NIT Jamshedpur..
+</p>
+
+<h2 align="center">💫 About Me:</h2>
+
+- 🎀 A student
+- 🌱 Currently styding at <a href="http://www.nitjsr.ac.in" target="_blank">NIT Jamshedpur</a>.
+- 👀 I’m currently learning ReactJS,Data Structure & Algo.
+- 🧑‍💻 Doing Competitive programing on cf nd cc
+- 💞️ I’m looking to collaborate on web developing
+- 📫 How to reach me - you can msg me on insta-@aman.k789 , Email: amankayat789@gmail.com
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ptakha_kudi_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-tripathi28/) 
