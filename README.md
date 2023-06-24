@@ -1,7 +1,14 @@
 <h1 align="center"> Bonjour ! <img width="40" height="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"> I'm Sakshi Tripathi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="center" width="1200" height="300" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
+<p  align="center">
+<img align="center" alt="coding" width="190" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
+<img align="center" alt="coding" width="290" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif">
+<img align="center" alt="coding" width="190" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif">
+
+</p>
+
+<!-- <img align="center" width="1200" height="300" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"> -->
 
 <div align="center">
     
@@ -12,12 +19,7 @@
 
 </div>
 
-<p  align="center">
-<img align="center" alt="coding" width="150" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
-<img align="center" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif">
-<img align="center" alt="coding" width="150" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif">
 
-</p>
 
 <img alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
