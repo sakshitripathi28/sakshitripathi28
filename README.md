@@ -2,23 +2,24 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="center" width="1200" height="300" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif">
-<div align="center">
 
+<div align="center">
+    
+[![](https://visitcount.itsvg.in/api?id=sakshitripathi28&icon=0&color=0)](https://visitcount.itsvg.in)    
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-tripathi28/)
 
-
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=sakshitripathi28&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <p  align="center">
-<img align="center" alt="coding" width="190" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
-<img align="center" alt="coding" width="290" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif">
-<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"> -->
-<img align="center" alt="coding" width="190" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif">
+<img align="center" alt="coding" width="150" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
+<img align="center" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif">
+<img align="center" alt="coding" width="150" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif">
 
 </p>
+
+<img alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 
 <h2 align="center">💫 About Me:</h2>
 
@@ -27,15 +28,39 @@
 - 👀 I’m currently learning ReactJS,Data Structure & Algo.
 - 🧑‍💻 Doing Competitive programing on cf nd cc
 - 💞️ I’m looking to collaborate on web developing
-- 📫 How to reach me - you can msg me on insta-@aman.k789 , Email: amankayat789@gmail.com
+- 📫 How to reach me - you can msg me on Email: sakshitripathi1228@gmail.com
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ptakha_kudi_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-tripathi28/) 
+<h2 align="center">💻 Tech Stack:</h2>
+<p  align="center">
+    
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
-### 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+</p>
 
-<img alt="coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+<h2 align="center">🌐 Socials:</h2>
+
+<p  align="center">
+
+<a href="https://www.linkedin.com/in/sakshi-tripathi28/">
+   <img alt="sakshi" src="https://img.shields.io/badge/-sakshi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sakshi-tripathi28/" />
+ </a>
+  
+ <a href="mailto:sakshitripathi1228@gmail.com">
+   <img alt="sakshi" src="https://img.shields.io/badge/-sakshi-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshitripathi1228@gmail.com" />
+ </a>
+  
+ <a href="https://instagram.com/https://www.instagram.com/ptakha_kudi_/">
+   <img alt="sakshi" src="https://img.shields.io/badge/-sakshi.k-red?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/ptakha_kudi_/" />
+ </a>
+
+ </a>
+
+ <a href="https://github.com/sakshitripathi28">
+   <img alt="sakshi" src="https://img.shields.io/github/followers/sakshitripathi28?label=follow&style=social" />
+ </a> 
+    
+</p>
 
 
 <h2 align="center">📊 GitHub Stats:</h2>
