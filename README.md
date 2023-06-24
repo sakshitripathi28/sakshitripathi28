@@ -8,6 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=sakshitripathi28&icon=0&color=0)](https://visitcount.itsvg.in)    
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-tripathi28/)
+[![My Playlist](https://img.shields.io/badge/My%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7j4pdc5O6yJbcWC1SkYJA0?si=94ae1d67ae5d4f29)
 
 </div>
 
@@ -23,6 +24,8 @@
 
 <h2 align="center">💫 About Me:</h2>
 
+<p align="center">
+    
 - 🎀 A student
 - 🌱 Currently styding at <a href="http://www.nitjsr.ac.in" target="_blank">NIT Jamshedpur</a>.
 - 👀 I’m currently learning ReactJS,Data Structure & Algo.
@@ -30,10 +33,12 @@
 - 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me - you can msg me on Email: sakshitripathi1228@gmail.com
 
+</p>
+
 <h2 align="center">💻 Tech Stack:</h2>
 <p  align="center">
     
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
 </p>
 
@@ -73,19 +78,7 @@
 <!--    | -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshitripathi28&theme=dark&hide_border=false" />
 <!--    | --></kbd>
-<!-- | ------------- | ------------- | -->
 </p>
-
-
-
-<h2 align="center">✍️ Random Dev Quote</h2>
-
-<p  align="center">
-<kbd>
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false"/>
-</kbd>
-</p>
-
 
 <h2 align="center">🔝 Top Contributed Repo</h2>
 <p  align="center">
@@ -93,6 +86,15 @@
 <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sakshitripathi28&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </kbd>
 </p>
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+
+<p  align="center">
+<kbd>
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=false"/>
+</kbd>
+</p>
+
 
 <h2 align="center">😍 Let's Have a Music</h2>
 <p  align="center">
