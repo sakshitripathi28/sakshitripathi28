@@ -13,7 +13,7 @@
 <div align="center">
     
 [![](https://visitcount.itsvg.in/api?id=sakshitripathi28&icon=0&color=0)](https://visitcount.itsvg.in)    
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tripathisakshi.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-tripathi28/)
 [![My Playlist](https://img.shields.io/badge/My%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7j4pdc5O6yJbcWC1SkYJA0?si=94ae1d67ae5d4f29)
 
